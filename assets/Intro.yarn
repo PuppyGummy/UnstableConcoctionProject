@@ -1,0 +1,31 @@
+title: Start
+tags: 
+colorID: 0
+position: 56,-479
+---
+There are six elements in the world:
+<< SetSprite arcane >> 
+the Arcane,
+<< SetSprite blight >> 
+the Blight,
+<< SetSprite crystal >> 
+the Crystal,
+<< SetSprite diffusal >> 
+the Diffusal,
+<< SetSprite essence >> 
+the Essence,
+<< SetSprite force >> 
+and the Force.
+<< SpriteDisable >> 
+The magical reactions among them create this beautiful world.
+... And you, are a bottle of potion,
+who wants to become the greatest alchemist of the world!
+In order to do so, you shall find the hidden magic circle.
+But watch out for every step you make, since the chemical you carry may easily get spilled.
+And then, BOOM! The reaction with the ground might kill you.
+Also, you may collect elements on the way, and mix it with the chemical inside you to form a new component.
+You could use the potion you carry to corrupt the door that gets in your way.
+Do keep in mind that some chemicals are inert and would not react with others.
+By the way, the reaction with the door could also form a new element and thus changing your chemical.
+Use your wisdom to solve the puzzles!
+===
